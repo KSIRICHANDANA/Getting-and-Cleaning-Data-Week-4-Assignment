@@ -1,13 +1,13 @@
 title: "Getting-and-Cleaning-Data-Week-4-Assignment"
 
-author: "Michael Schroff"
+author: "siri chandana"
 
-date: "25.01.2018"
+date: "10-09-2022"
 
-output: "tidydate.txt""
+output: "tidydataset.txt""
 
 Code Book
-The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
+The final summary tidy dataset "tidydataset.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
 Description
 Data in dataset contains 180 rows and 68 columns for
